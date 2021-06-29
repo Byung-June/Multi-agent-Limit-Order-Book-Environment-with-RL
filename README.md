@@ -2,8 +2,8 @@
 
 ## Code for the Doctoral Dissertation
 
-This code is for 'Effects of Tick Size Change on PredatoryTraders and Market Quality,' which is the doctoral dissertation of Byung-June Kim at POSTECH. 
-Byung-June Kim conducts Conceptualization, Methodology, Software, Analysis, and Writing.
+This code is for 'Effects of Tick Size Change on PredatoryTraders and Market Quality,' which is the doctoral dissertation of Byung-June Kim at POSTECH.
+Byung-June Kim conducts Conceptualization, Methodology, Software, Analysis, and Writing. His CV site is https://sites.google.com/view/kbj219/
 
 My supervisor is professor Bong-Gyu Jang at POSTECH.
 This work was supported by the Ministry of Education of the Republic of Korea and the National Research Foundation of Korea. (NRF-2019S1A5A2A03054249)
